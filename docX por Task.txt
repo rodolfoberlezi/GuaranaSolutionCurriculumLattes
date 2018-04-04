@@ -1,0 +1,43 @@
+docX de entrada => TASK => docX de saída
+
+docX1 (currículo lattes) = task 0 filtro = docX1
+
+docX1 = task 1 translator = docX2
+
+docX2 = task 2 replicator = docX2 x3
+
+docX2 = task 3 translator = docX3
+
+docX3 = task 4 replicator = docX3 x2
+
+docX3 = task 5 translator = docX4
+
+docX3 e docX4 = task 6 correlator = docX3 e docX4
+
+docX3 e docX4 = task 7 contentTextEnricher = docX3 eventos
+
+docX2 = task 8 translator = docX5 livros
+
+docX2 = task 9 translator = docX6
+
+docX6 = task 10 replicator = docX6 x2
+
+docX6 = task 11 translator = docX7
+
+docX6 e docX7 = task 12 correlator = docX6 e docX7
+
+docX6 e docX7 = task 13 contentTextEnricher = docX6
+
+docX6 = task 14 replicator = docX6 x2
+
+docX6 = task 15 translator = docX8
+
+docX6 e docX8 = task 16 correlator = docX6 e docX8
+
+docX6 e docX8 = task 17 contentTextEnricher = docX6 revistas
+
+docX3, docX5 e docX6 = task 18 merger = docX9
+
+docX9 = task 19 assembler = docX2
+
+docX2 = task 20 translator = curriculum.xml
