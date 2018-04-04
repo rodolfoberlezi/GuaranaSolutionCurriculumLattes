@@ -1,0 +1,68 @@
+Starting system at -------------> Mon Mar 20 17:53:29 BRT 2017 [1/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 100
+Total production time ---> 0,02 min
+Starting workers... 
+System running...
+Message generation started at: Mon Mar 20 17:53:29 BRT 2017
+Number of messages produced: 100
+Actual production time ---------> 0,02 min
+Message production finished!
+Outputs: 100
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 2000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Mon Mar 20 18:10:41 BRT 2017 [1/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 100
+Total production time ---> 0,02 min
+Starting workers... 
+System running...
+Message generation started at: Mon Mar 20 18:10:41 BRT 2017
+Number of messages produced: 100
+Actual production time ---------> 0,02 min
+Message production finished!
+Outputs: 100
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 2000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Mon Mar 20 18:12:22 BRT 2017 [1/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 100
+Total production time ---> 0,02 min
+Starting workers... 
+System running...
+Message generation started at: Mon Mar 20 18:12:23 BRT 2017
+Number of messages produced: 100
+Actual production time ---------> 0,02 min
+Message production finished!
+Outputs: 100
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 2000
+System stopped!
+Cleaning up heap...
+Starting system at -------------> Mon Mar 20 18:14:22 BRT 2017 [1/5]
+Number of workers -------> 1
+Arrival rate ------------> 10
+Messages ----------------> 100
+Total production time ---> 0,02 min
+Starting workers... 
+System running...
+Message generation started at: Mon Mar 20 18:14:22 BRT 2017
+Number of messages produced: 100
+Actual production time ---------> 0,02 min
+Message production finished!
+Outputs: 100
+Shutting down the solution...
+Stopping workers...
+Number of work units processed: 2000
+System stopped!
+Cleaning up heap...

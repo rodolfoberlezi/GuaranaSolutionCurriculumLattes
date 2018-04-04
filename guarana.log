@@ -1,0 +1,4 @@
+mar 08, 2018 5:41:39 PM guarana.toolkit.task.communicators.dummy.InDummyCommunicator <init>
+INFORMAÇÕES: In-Communicator "Communicator@PortCurriculum" created successfully!
+mar 08, 2018 5:41:39 PM guarana.toolkit.task.communicators.dummy.OutDummyCommunicator <init>
+INFORMAÇÕES: Out-DummyCommunicator "Communicator@PortCurriculum" created!
