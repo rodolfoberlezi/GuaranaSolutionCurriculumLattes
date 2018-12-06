@@ -1,0 +1,17 @@
+        ------------------------------------------------
+                        GUARANÁ LICENSE
+             www.tdg-seville.info/rzfrantz/guarana
+        ------------------------------------------------
+
+Guaraná is distributed under the terms of TDG's License 1.0. Please, consider reading the following license before using Guaraná in your projects.
+
+
+The TDG's License (1.0)
+
+Seville, October 1997
+
+The products and research results by The Distributed Group are distributed, unless otherwise stated, under the terms of this license.
+
+In keeping with the traditional purpose of furthering science, education and research, it is the policy of the TDG, whenever possible, to permit non-commercial use and redistribution of the products or research results whose copyright they own. You however are not allowed to modify them without prior written consention; neither are you allowed to earn money for distributing them. Our products and results have been tested carefully, but they are not guaranteed for any particular purpose. We do not offer any warranties or representations, nor do we accept any liabilities with respect to them.
+
+Commercial use of our products, results or derivatives, including warranties or representations, requires negotiating a commercial license. Please, do contact us for further details.

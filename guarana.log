@@ -1,4 +1,18 @@
-mar 08, 2018 5:41:39 PM guarana.toolkit.task.communicators.dummy.InDummyCommunicator <init>
-INFORMA��ES: In-Communicator "Communicator@PortCurriculum" created successfully!
-mar 08, 2018 5:41:39 PM guarana.toolkit.task.communicators.dummy.OutDummyCommunicator <init>
-INFORMA��ES: Out-DummyCommunicator "Communicator@PortCurriculum" created!
+nov 16, 2018 2:32:29 PM guarana.toolkit.task.communicators.dummy.InDummyCommunicator <init>
+INFORMAÇÕES: In-Communicator "Communicator@PortCurriculum" created successfully!
+nov 16, 2018 2:32:29 PM guarana.toolkit.task.communicators.dummy.OutDummyCommunicator <init>
+INFORMAÇÕES: Out-DummyCommunicator "Communicator@PortCurriculum" created!
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Worker doWork
+INFORMAÇÕES: -> Worker "WorkerThread-1" has started!
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Work Queue monitoring has been ACTIVATED!
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler$1 doWork
+ADVERTÊNCIA: .\cafe-full-stats\work-queue-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Workers monitoring has been ACTIVATED!
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler$2 doWork
+ADVERTÊNCIA: .\cafe-full-stats\workers-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Memory monitoring has been ACTIVATED!
+nov 16, 2018 2:32:29 PM guarana.toolkit.engine.Scheduler$3 doWork
+ADVERTÊNCIA: .\cafe-full-stats\memory-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
