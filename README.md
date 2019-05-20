@@ -1,1 +1,1 @@
-lattesSolution
+This solution is able to read any Curriculum Lattes from a XML file and generate another XML file with a resume about the read Curriculum. This resume includes Articles, Books and Events which the researcher has participated.
