@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CVLattes>
+
+  <Id/>
+
+  <Publications>
+
+    <Article>
+      <Authors>Rafael Z. Frantz, Rodolfo Berlezi</Authors>
+      <Title>Maintainability Metrics</Title>
+      <Journal>Revista1</Journal>
+      <Year>2015</Year>
+      <Pages>29</Pages>
+      <Volume>1</Volume>
+    </Article>
+
+    <Article>
+      <Authors>Rafael Z. Frantz, Rodolfo Berlezi</Authors>
+      <Title>Guarana or Mulesoft</Title>
+      <Journal>Revista2</Journal>
+      <Year>2017</Year>
+      <Pages>23</Pages>
+      <Volume>1</Volume>
+    </Article>
+
+  </Publications>
+
+</CVLattes>

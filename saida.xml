@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVLattes>
+    <PRODUCAO-BIBLIOGRAFICA>
+        <TRABALHOS-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Aplicação Distribuída para Gerenciamento de Ligações Telefônicas na UNIJUI</TITULO>
+                <SEQUENCIA>6</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Sérgio Luis Dill, Paulo Sérgio Sausen, Reneo Pedro Prediger.</AUTORES>
+                <EVENTO>IX Seminário de iniciação Científica da UNIJUÍ</EVENTO>
+                <LOCAL>Ijuí, RS, Brasil</LOCAL>
+                <ANAIS>IX Seminário de Iniciação Científica</ANAIS>
+                <PAGINAS>294-294</PAGINAS>
+                <ANO>2001</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>iSVE - Sistema para Votação Eletrônica</TITULO>
+                <SEQUENCIA>7</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Bruno Boniati, Reneo Pedro Prediger.</AUTORES>
+                <EVENTO>IX Seminário de iniciação Científica da UNIJUÍ</EVENTO>
+                <LOCAL>Ijuí, RS, Brasil</LOCAL>
+                <ANAIS>IX Seminário de iniciação Científica da UNIJUÍ</ANAIS>
+                <PAGINAS>330-330</PAGINAS>
+                <ANO>2001</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Programa para Gerenciamento de Bibliotecas Pessoais</TITULO>
+                <SEQUENCIA>9</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>VIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí, RS, Brasil</LOCAL>
+                <ANAIS>VIII Seminário de Iniciação Científica</ANAIS>
+                <PAGINAS>187-187</PAGINAS>
+                <ANO>2000</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Uso de Microcontroladores com Arquitetura RISC na Automação de Equipamentos</TITULO>
+                <SEQUENCIA>17</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Marcia Kessler Karsburg, Jorge Rodrigo Sartori, Josué Toebe, Diego Ziquinatti, Ari Zwirtes, Luiz Antonio Rasia.</AUTORES>
+                <EVENTO>XIV Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Santa Maria, RS, Brasil</LOCAL>
+                <ANAIS>CRICTE'99</ANAIS>
+                <PAGINAS>53-56</PAGINAS>
+                <ANO>1999</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Software Distribuído sobre Plataforma não Proprietária para Gerenciamento de Ligações Telefônicas na UNIJUÍ</TITULO>
+                <SEQUENCIA>19</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Paulo Sérgio Sausen, Sérgio Luis Dill, Reneo Pedro Prediger.</AUTORES>
+                <EVENTO>XVI Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Ijuí, RS, Brasil</LOCAL>
+                <ANAIS>CRICTE'01</ANAIS>
+                <PAGINAS>-</PAGINAS>
+                <ANO>2001</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Desenvolvimento de Software com Linguagens Free para Gerenciamento de Ligações Telefônicas</TITULO>
+                <SEQUENCIA>21</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Sérgio Luis Dill, Paulo Sérgio Sausen, Reneo Pedro Prediger.</AUTORES>
+                <EVENTO>VII Seminário de Iniciação Científica e VI Jorganda de Ensino, Pesquisa e Extensão da UNISC</EVENTO>
+                <LOCAL>Santa Cruz do Sul, RS, Brasil</LOCAL>
+                <ANAIS>VII Seminário de Iniciação Científica e VI Jorganda de Ensino, Pesquisa e Extensão da UNISC</ANAIS>
+                <PAGINAS>-</PAGINAS>
+                <ANO>2001</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Contador de Eventos para um Processo Industrial Usando Microcontroladores</TITULO>
+                <SEQUENCIA>22</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Luiz Antonio Rasia, Jorge Rodrigo Sartori, Josué Toebe.</AUTORES>
+                <EVENTO>XIV Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Santa Maria, RS, Brasil</LOCAL>
+                <ANAIS>CRICTE'99</ANAIS>
+                <PAGINAS>-</PAGINAS>
+                <ANO>1999</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Microcontroladores na Automação de Equipamentos para Apicultura</TITULO>
+                <SEQUENCIA>36</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Luiz Antonio Rasia.</AUTORES>
+                <EVENTO>II Seminário de Integração de Pesquisa e Pós Graduação</EVENTO>
+                <LOCAL>Santiago, RS, Brasil</LOCAL>
+                <ANAIS>Anais ? Iniciação Científica e Pós-Graduação</ANAIS>
+                <PAGINAS>80-</PAGINAS>
+                <ANO>1998</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Advances in a DSL for Application Integration</TITULO>
+                <SEQUENCIA>42</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Jesús Gonzáles.</AUTORES>
+                <EVENTO>Integración de Aplicaciones Web (ZOCO/JISBD)</EVENTO>
+                <LOCAL>Gijón, Espanha</LOCAL>
+                <ANAIS>Actas del Taller de Trabajo Zoco?08 / XIII Jornadas de Ingeniería del Software y Bases de Datos (JISBD)</ANAIS>
+                <PAGINAS>54-66</PAGINAS>
+                <ANO>2008</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Una Comparación de ESBs desde la Perspectiva de la Integración de Aplicaciones</TITULO>
+                <SEQUENCIA>43</SEQUENCIA>
+                <AUTORES>Rafael Corchuelo, Rafael Zancan Frantz, Jesús Gonzáles.</AUTORES>
+                <EVENTO>XIII Jornadas de Ingeniería del Software y Bases de Datos (JISBD)</EVENTO>
+                <LOCAL>Gijón, Espanha</LOCAL>
+                <ANAIS>Actas de las XIII Jornadas de Ingeniería del Software y Bases de Datos</ANAIS>
+                <PAGINAS>403-408</PAGINAS>
+                <ANO>2008</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Integración de Aplicaciones</TITULO>
+                <SEQUENCIA>47</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo.</AUTORES>
+                <EVENTO>Integración de Aplicaciones Web para la Web Semántica (ZOCO/CAEPIA)</EVENTO>
+                <LOCAL>Salamanca, Espanha</LOCAL>
+                <ANAIS>Actas del Taller de Trabajo Zoco'07 / XII Conferencia de la Asociación Española para la Inteligencia Artificial</ANAIS>
+                <PAGINAS>65-75</PAGINAS>
+                <ANO>2007</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Towards Automatic Code Generation for EAI Solutions using DSL Tools</TITULO>
+                <SEQUENCIA>57</SEQUENCIA>
+                <AUTORES>Hassan Ali Sleiman, Abdul Wahab Sultán Regalado, Rafael Zancan Frantz, Rafael Corchuelo.</AUTORES>
+                <EVENTO>XIV Jornadas de Ingeniería del Software y Bases de Datos (JISBD)</EVENTO>
+                <LOCAL>San Sebastián, Espanha</LOCAL>
+                <ANAIS>XIV Jornadas de Ingeniería del Software y Bases de Datos</ANAIS>
+                <PAGINAS>134-145</PAGINAS>
+                <ANO>2009</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Towards a Fault-Tolerant Architecture for Enterprise Application Integration Solutions</TITULO>
+                <SEQUENCIA>58</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Carlos Molina Jiménez.</AUTORES>
+                <EVENTO>8th International Workshop on System/Software Architectures (IWSSA/OTM)</EVENTO>
+                <LOCAL>Vilamoura, Portugal</LOCAL>
+                <ANAIS>On the Move to Meaningful Internet Systems: OTM 2009 Workshops</ANAIS>
+                <PAGINAS>294-303</PAGINAS>
+                <ANO>2009</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Microcontrollers in the Automation of Equipments for Beekeeping</TITULO>
+                <SEQUENCIA>71</SEQUENCIA>
+                <AUTORES>Luiz Antonio Rasia, Ari Zwirtes, Marcia Kessler Karsburg, Jorge Rodrigo Sartori, Josué Toebe, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>II Jornada de Ensino, Pesquisa e Extensão e VI Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí, RS, Brasil</LOCAL>
+                <ANAIS>Comunicação Científica/Série Eventos Acadêmicos</ANAIS>
+                <PAGINAS>184-192</PAGINAS>
+                <ANO>1999</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Arquitetura RISC na Automação de Equipamentos</TITULO>
+                <SEQUENCIA>72</SEQUENCIA>
+                <AUTORES>Luiz Antonio Rasia, Rafael Zancan Frantz, Jorge Rodrigo Sartori, Josué Toebe, Marcia Kessler Karsburg.</AUTORES>
+                <EVENTO>VIII Encontro Anual de Iniciação Científica - PIBIC/CNPq</EVENTO>
+                <LOCAL>Cascavel, PR, Brasil</LOCAL>
+                <ANAIS>VIII Encontro Anual de Iniciação Científica - PIBIC/CNPq</ANAIS>
+                <PAGINAS>368-368</PAGINAS>
+                <ANO>1999</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Automação de uma Máquina Empacotadora usando Microcontroladores</TITULO>
+                <SEQUENCIA>73</SEQUENCIA>
+                <AUTORES>Luiz Antonio Rasia, Josué Toebe, Rafael Zancan Frantz, Jorge Rodrigo Sartori.</AUTORES>
+                <EVENTO>VIII Encontro Anual de Iniciação Científica - PIBIC/CNPq</EVENTO>
+                <LOCAL>Cascavel, PR, Brasil</LOCAL>
+                <ANAIS>VIII Encontro Anual de Iniciação Científica - PIBIC/CNPq</ANAIS>
+                <PAGINAS>367-367</PAGINAS>
+                <ANO>1999</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>On the Design of a Domain Specific Language for Enterprise Application Integration Solutions</TITULO>
+                <SEQUENCIA>83</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Carlos Molina Jiménez, Rafael Corchuelo.</AUTORES>
+                <EVENTO>2nd International Workshop on Model-Driven Service Engineering (MOSE/TOOLS)</EVENTO>
+                <LOCAL>Málaga, Espanha</LOCAL>
+                <ANAIS>CEUR Workshop Proceedings</ANAIS>
+                <PAGINAS>19-30</PAGINAS>
+                <ANO>2010</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Una Arquitectura para el Diseño de Soluciones de Integración de Aplicaciones Empresariales con Soporte para Tolerancia a Fallos</TITULO>
+                <SEQUENCIA>85</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Carlos Molina Jiménez.</AUTORES>
+                <EVENTO>VI Jornadas Científico-Técnicas en Servicios Web y SOA (JSWEB)</EVENTO>
+                <LOCAL>Valencia, Espanha</LOCAL>
+                <ANAIS>Actas de las VI Jornadas Científico-Técnicas en Servicios Web y SOA</ANAIS>
+                <PAGINAS>51-62</PAGINAS>
+                <ANO>2010</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>A Roadmap on Integrating Applications and Data on the Web</TITULO>
+                <SEQUENCIA>86</SEQUENCIA>
+                <AUTORES>Rafael Corchuelo, Hassan Ali Sleiman, Iñaki Josep Fernández de Viana, Patricia Jiménez, José Luis Arjona Fernández, David Ruiz Cortés, José Luis Álvarez Macías, Rafael Zancan Frantz, Carlos Molina Jiménez, Inmaculada Concepción Hernández Salmerón, Carlos Rivero Osuna, Antonia María Reina Quintero.</AUTORES>
+                <EVENTO>XV Jornadas de Ingeniería del Software y Bases de Datos (JISBD)</EVENTO>
+                <LOCAL>Valencia, Espanha</LOCAL>
+                <ANAIS>Actas de las XV Jornadas de Ingeniería del Software y Bases de Datos</ANAIS>
+                <PAGINAS>133-142</PAGINAS>
+                <ANO>2010</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>An Efficient Orchestration Engine for the Cloud</TITULO>
+                <SEQUENCIA>93</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, José Luis Arjona Fernández.</AUTORES>
+                <EVENTO>IEEE International Conference on Cloud Computing Technology and Science (CloudCom)</EVENTO>
+                <LOCAL>Atenas, Grécia</LOCAL>
+                <ANAIS>Proceedings of 3rd IEEE International Conference on Cloud Computing Technology and Science</ANAIS>
+                <PAGINAS>711-716</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Error-Detection in Enterprise Application Integration Solutions</TITULO>
+                <SEQUENCIA>94</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Carlos Molina Jiménez.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Vilamoura, Portugal</LOCAL>
+                <ANAIS>Proceeding of Enterprise Information Systems</ANAIS>
+                <PAGINAS>170-179</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Monitoring Errors in Integration Workflows</TITULO>
+                <SEQUENCIA>95</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Carlos Rivero Osuna, Carlos Molina Jiménez.</AUTORES>
+                <EVENTO>International Conference on Software Engineering Research and Practice (SERP)</EVENTO>
+                <LOCAL>Las Vegas, Nevada, EUA</LOCAL>
+                <ANAIS>Proceedings of the International Conference on Software Engineering Research and Practice</ANAIS>
+                <PAGINAS>598-604</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>On using high-level structured queries for integrating deep-web information sources</TITULO>
+                <SEQUENCIA>96</SEQUENCIA>
+                <AUTORES>Carlos Rivero Osuna, Rafael Zancan Frantz, David Ruiz Cortés, Rafael Corchuelo.</AUTORES>
+                <EVENTO>International Conference on Software Engineering Research and Practice (SERP)</EVENTO>
+                <LOCAL>Las Vegas, Nevada, EUA</LOCAL>
+                <ANAIS>Proceedings of the International Conference on Software Engineering Research and Practice</ANAIS>
+                <PAGINAS>630-636</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>On Mining DOM Trees to build Information Extractors</TITULO>
+                <SEQUENCIA>97</SEQUENCIA>
+                <AUTORES>Gretel Fernández, Rafael Corchuelo, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>International Conference on Internet Computing (ICOMP)</EVENTO>
+                <LOCAL>Las Vegas, Nevada, EUA</LOCAL>
+                <ANAIS>Proceedings of the International Conference on Internet Computing</ANAIS>
+                <PAGINAS>363-367</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>A Software Development Kit to Implement Integration Solutions</TITULO>
+                <SEQUENCIA>98</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo.</AUTORES>
+                <EVENTO>27th ACM Symposium On Applied Computing (SAC)</EVENTO>
+                <LOCAL>Riva del Garda, Trento, Itália</LOCAL>
+                <ANAIS>Proceedings of 27th ACM Symposium On Applied Computing</ANAIS>
+                <PAGINAS>1647-1652</PAGINAS>
+                <ANO>2012</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Assisted Tasks to Generate Pre-prototypes for Web Information Systems</TITULO>
+                <SEQUENCIA>122</SEQUENCIA>
+                <AUTORES>Fabio Paulo Basso, Raquel Mainardi Pillat Basso, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Lisboa</LOCAL>
+                <ANAIS>Proceedings of the 16th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>14-25</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>On the Formalisation of an Application Integration Language Using Z Notation</TITULO>
+                <SEQUENCIA>124</SEQUENCIA>
+                <AUTORES>Mauri José Klein, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Lisboa</LOCAL>
+                <ANAIS>Proceedings of the 16th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>314-319</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>An Automatic Generation of Textual Pattern Rules for Digital Content Filters Proposal, Using Grammatical Evolution Genetic Programming</TITULO>
+                <SEQUENCIA>131</SEQUENCIA>
+                <AUTORES>Vitor Manuel Basto Fernandes, Iryna Yevseyeva, Rafael Zancan Frantz, Carlos Grilo, José Ramon Méndez, Michael Emmerich.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Troia, Portugal</LOCAL>
+                <ANAIS>6th Conference on ENTERprise Information Systems - aligning technology, organizations and people</ANAIS>
+                <PAGINAS>806-812</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Uma Proposta de Framework de Comparação de Provedores de Computação em Nuvem</TITULO>
+                <SEQUENCIA>156</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Seminário de Formação Científica e Tecnológica (SFCT)</EVENTO>
+                <LOCAL>Santa Rosa</LOCAL>
+                <ANAIS>II Seminário de Formação Científica e Tecnológica</ANAIS>
+                <PAGINAS>8-9</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Um Estudo da Variabilidade dos Tipos de Serviço do Provedor de Computação em Nuvem Amazon&amp;#8203;</TITULO>
+                <SEQUENCIA>163</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXVI Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Alegrete</LOCAL>
+                <ANAIS>Anais do CRICTE</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Desafios para a Implantação de Soluções de Integração de&amp;#8203; &amp;#8203;Aplicações Empresariais em Provedores de Computação em Nuvem</TITULO>
+                <SEQUENCIA>164</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Corchuelo, Vitor Manuel Basto Fernandes, Inmaculada Concepción Hernández Salmerón.</AUTORES>
+                <EVENTO>&amp;#8203;XIX Jornada de Pesquisa&amp;#8203;&amp;#8203;</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-11</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Uma Proposta para Comparação de Provedores de Computação em Nuvem Desde uma Perspectiva de Integração de Aplicações</TITULO>
+                <SEQUENCIA>165</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>&amp;#8203;XXII &amp;#8203;Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Implantação de Soluções de Integração de Aplicações em Provedores de Computação em Nuvem</TITULO>
+                <SEQUENCIA>166</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXVI Salão de Iniciação Científica</EVENTO>
+                <LOCAL>Porto Alegre</LOCAL>
+                <ANAIS>Salão UFRGS 2014</ANAIS>
+                <PAGINAS>1-1</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Desenvolvimento de uma Ferramenta Iterativa para a Visualização da Cobertura de Sinal de Antenas Baseada em Simulated Annealing</TITULO>
+                <SEQUENCIA>167</SEQUENCIA>
+                <AUTORES>Gabriel Freytag, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXII&amp;#8203; &amp;#8203;Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Uma Ferramenta de Apoio à Edição e Validação de OVMs Textuais para dar Suporte ao Processo de Análise Automática</TITULO>
+                <SEQUENCIA>168</SEQUENCIA>
+                <AUTORES>Cristiano Politowski, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>&amp;#8203;IV Seminário de Inovação e Tecnologia</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Modelagem e Implementação de Jogos Aplicados a Aprendizagem de Máquina</TITULO>
+                <SEQUENCIA>169</SEQUENCIA>
+                <AUTORES>Jean Rafael Reus da Silva, Rogério Samuel de Moura Martins, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>&amp;#8203;XXII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>&amp;#8203;Mapeamento de Informações Geomorfológicas para Ambientes Computacionais</TITULO>
+                <SEQUENCIA>170</SEQUENCIA>
+                <AUTORES>Guilherme Henrique Schiefelbein Arruda, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2014</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Especificação Formal da Sintaxe Abstrata do Guaraná DSL</TITULO>
+                <SEQUENCIA>171</SEQUENCIA>
+                <AUTORES>Mauri José Klein, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Seminário de Formação Científica e Tecnológica (SFCT)</EVENTO>
+                <LOCAL>Santa Rosa</LOCAL>
+                <ANAIS>II Seminário de Formação Científica e Tecnológica</ANAIS>
+                <PAGINAS>19-21</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Using Petri Nets to Enable the Simulation of Application Integration Solutions Conceptual Models</TITULO>
+                <SEQUENCIA>174</SEQUENCIA>
+                <AUTORES>Fabricia Carneiro Roos Frantz, Manuel Osorio Binelo, Rafael Zancan Frantz, Sandro Sawicki, Vitor Manuel Basto Fernandes.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Barcelona</LOCAL>
+                <ANAIS>Proceedings of the 17th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>87-97</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>On Using Markov Decision Processes to Model Integration Solutions for Disparate Resources in Software Ecosystems</TITULO>
+                <SEQUENCIA>175</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Iryna Yevseyeva, Michael Emmerich.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Barcelona</LOCAL>
+                <ANAIS>Proceedings of the 17th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>260-268</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Cloud Configuration Modelling: a Literature Review from an Application Integration Deployment Perspective</TITULO>
+                <SEQUENCIA>187</SEQUENCIA>
+                <AUTORES>Inmaculada Concepción Hernández Salmerón, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Vilamoura, Algarve</LOCAL>
+                <ANAIS>Conference on ENTERprise Information Systems</ANAIS>
+                <PAGINAS>977-983</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Conceitual de uma Solução de Integração para o Processo de Rematrícula da Universidade Unijuí</TITULO>
+                <SEQUENCIA>188</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Seminário de Formação Científica e Tecnológica (SFCT)</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>III Seminário de Formação Científica e Tecnológica</ANAIS>
+                <PAGINAS>5-6</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>An EAI Based Integration Solution for Science and Research Outcomes Information Management</TITULO>
+                <SEQUENCIA>204</SEQUENCIA>
+                <AUTORES>Fernando José Rosa Sequeira, Rafael Zancan Frantz, Iryna Yevseyeva, Michael Emmerich, Vitor Manuel Basto Fernandes.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Vilamoura, Algarve</LOCAL>
+                <ANAIS>Conference on ENTERprise Information Systems</ANAIS>
+                <PAGINAS>894-901</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Matemática e Computacional para Identificação de Gargalos de Desempenho em Soluções de Integração</TITULO>
+                <SEQUENCIA>206</SEQUENCIA>
+                <AUTORES>Arléte Kelm Wiesner, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Seminário de Formação Científica e Tecnológica (SFCT)</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>III Seminário de Formação Científica e Tecnológica</ANAIS>
+                <PAGINAS>11-12</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Teoria das Filas como Técnica Matemática para Representar o Comportamento de uma Solução de Integração Empresarial</TITULO>
+                <SEQUENCIA>207</SEQUENCIA>
+                <AUTORES>Arléte Kelm Wiesner, Gabriel Freytag, Rafael Zancan Frantz, Sandro Sawicki, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XX Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Matemática e Computacional de uma Solução de Integração Utilizando Cadeias de Markov</TITULO>
+                <SEQUENCIA>208</SEQUENCIA>
+                <AUTORES>Márcia Maria Horn, Guilherme Henrique Schiefelbein Arruda, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XX Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Simulação de uma Solução de Integração com Redes de Petri Estocásticas para o Problema da Central Telefônica na UNIJUI</TITULO>
+                <SEQUENCIA>209</SEQUENCIA>
+                <AUTORES>Roberto Saulo Cargnin, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>XX Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-8</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Uma Proposta de Integração de Aplicações com a Utilização da Simulação Computacional: Estudo de Caso Café</TITULO>
+                <SEQUENCIA>210</SEQUENCIA>
+                <AUTORES>Shirlei Quevedo Dos Santos, Fabricia Carneiro Roos Frantz, Sandro Sawicki, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Desenvolvimento de um Modelo de Simulação Baseado em uma Solução de Integração Real Utilizando a Ferramenta PRISM</TITULO>
+                <SEQUENCIA>211</SEQUENCIA>
+                <AUTORES>Guilherme Henrique Schiefelbein Arruda, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Desenvolvimento de uma Solução de Integração de Aplicações para Automatizar Reservas de Viagem</TITULO>
+                <SEQUENCIA>212</SEQUENCIA>
+                <AUTORES>Edinaldo Gaspar da Silva, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Proposta de uma Unidade de Memória para Acelerar a Otimização das Redes Neurais Recorrentes em Ambientes Parcialmente Observáveis</TITULO>
+                <SEQUENCIA>213</SEQUENCIA>
+                <AUTORES>Eldair Fabricio Dorneles, Márcia da Silva, Rogério Samuel de Moura Martins, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-2</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Simulação do Comportamento de uma Solução de Integração Desenvolvida para a Área de Venda Hospitalar Utilizando a Ferramenta ARENA</TITULO>
+                <SEQUENCIA>214</SEQUENCIA>
+                <AUTORES>Gabriel Freytag, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Uso de Jogos Lógicos Aplicados a Aprendizagem de Máquina</TITULO>
+                <SEQUENCIA>215</SEQUENCIA>
+                <AUTORES>Jean Rafael Reus da Silva, Rogério Samuel de Moura Martins, Renato Perez Ribas, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>XXIII Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem de uma Solução de Integração para o Processo de Rematrícula da Universidade UNIJUÍ</TITULO>
+                <SEQUENCIA>216</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>V Seminário de Inovação e Tecnologia</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2015</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Mathematical Model for Simulating an Application Integration Solution in the Academic Context of Unijuí University</TITULO>
+                <SEQUENCIA>234</SEQUENCIA>
+                <AUTORES>Adriana Rosélia Kraisig, Franciéli Cristina Welter, Igor Gamste Haugg, Roberto Saulo Cargnin, Fabricia Carneiro Roos Frantz, Sandro Sawicki, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Porto</LOCAL>
+                <ANAIS>Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>407-413</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>A study of Petri Nets, Markov Chains and Queueing Theory as Mathematical Modelling Languages aiming at the simulation of enterprise application integration solutions: A first step</TITULO>
+                <SEQUENCIA>235</SEQUENCIA>
+                <AUTORES>Cássio Luiz Mozer Belusso, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Porto</LOCAL>
+                <ANAIS>Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>229-236</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Analysis of Asset Specification Languages for Representation of Descriptive Data from MDE Artifacts</TITULO>
+                <SEQUENCIA>236</SEQUENCIA>
+                <AUTORES>Fabio Paulo Basso, OLIVEIRA, TOACY CAVALCANTE, Cláudia M. L. Werner, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>Conference on Enterprise Information Systems (CENTERIS)</EVENTO>
+                <LOCAL>Porto</LOCAL>
+                <ANAIS>Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>221-228</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Desenvolvimento e implementação de uma solução de integração que automatiza um sistema de reserva de viagens</TITULO>
+                <SEQUENCIA>240</SEQUENCIA>
+                <AUTORES>Edinaldo Gaspar da Silva, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>Jornada Nacional de Iniciação Científica</EVENTO>
+                <LOCAL>Porto Seguro</LOCAL>
+                <ANAIS>68 Reunião Anual da Sociedade Brasileira para o Progresso da Ciência</ANAIS>
+                <PAGINAS>1-1</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Tradução de Modelos Conceituais de Soluções de Integração Baseados em Pipes and Filters para Redes de Petri, Cadeias de Markov e Teoria das Filas</TITULO>
+                <SEQUENCIA>241</SEQUENCIA>
+                <AUTORES>Cássio Luiz Mozer Belusso, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXXVI Congresso Nacional de Matemática Aplicada e Computacional (CNMAC)</EVENTO>
+                <LOCAL>Gramado</LOCAL>
+                <ANAIS>Proceeding Series of the Brazilian Society of Computational and Applied Mathematics</ANAIS>
+                <PAGINAS>1-1</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem de uma Solução de Integração para Automatizar a Emissão dos Boletos de IPTU e ISSQN no Município de Ijuí</TITULO>
+                <SEQUENCIA>244</SEQUENCIA>
+                <AUTORES>Ivan Eduardo Metz Kühne, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>VI Seminário de Inovação e Tecnologia</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Framework de Comparação entre Ferramentas de Simulação</TITULO>
+                <SEQUENCIA>245</SEQUENCIA>
+                <AUTORES>Adriana Rosélia Kraisig, Franciéli Cristina Welter, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXI Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Framework de Comparação entre Técnicas Matemáticas</TITULO>
+                <SEQUENCIA>246</SEQUENCIA>
+                <AUTORES>Franciéli Cristina Welter, Adriana Rosélia Kraisig, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXI Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Matemática e Computacional de um Problema de Integração na Área de Publicidade e Propaganda Utilizando Redes de Petri Estocásticas</TITULO>
+                <SEQUENCIA>247</SEQUENCIA>
+                <AUTORES>Francine Freddo, Sandro Sawicki, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXI Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>A Tecnologia do Hidrogel na Eficiência de uso de Nitrogênio e Lógica Fuzzy Aplicada à Previsibilidade de Produtividade de Grãos de Aveia à Alimentação</TITULO>
+                <SEQUENCIA>248</SEQUENCIA>
+                <AUTORES>Eldair Fabricio Dorneles, Osmar Bruneslau Scremin, Rúbia Diana Mantai, Anderson Marolli, Rafael Zancan Frantz, José Antonio Gonzalez da Silva.</AUTORES>
+                <EVENTO>VI Seminário de Inovação e Tecnologia</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Matemática por Rede Neural Artificial na Proposta de Simulação da Produtividade de Grãos de Aveia no Sistema de Sucessão Milho/Aveia em Condições Reais de Cultivo</TITULO>
+                <SEQUENCIA>249</SEQUENCIA>
+                <AUTORES>Eldair Fabricio Dorneles, Osmar Bruneslau Scremin, Ana Paula Brezolin, Ari Higino Scremin, Rafael Zancan Frantz, José Antonio Gonzalez da Silva.</AUTORES>
+                <EVENTO>XXI Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2016</ANAIS>
+                <PAGINAS>1-7</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Redes de Petri como Instrumento para a Modelagem Matemática e Computacional de um Problema de Integração de Aplicações</TITULO>
+                <SEQUENCIA>253</SEQUENCIA>
+                <AUTORES>Francine Freddo, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>Conferência Sul em Modelagem Computacional (MCSul)</EVENTO>
+                <LOCAL>Rio Grande</LOCAL>
+                <ANAIS>(no prelo)</ANAIS>
+                <PAGINAS>-</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Price Modeling of IaaS Providers - An Approach Focused on Enterprise Application Integration</TITULO>
+                <SEQUENCIA>262</SEQUENCIA>
+                <AUTORES>Cássio Luiz Mozer Belusso, Sandro Sawicki, Vitor Manuel Basto Fernandes, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Porto</LOCAL>
+                <ANAIS>Proceedings of the 19th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>371-376</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Price modeling of laaS providers using multiple regression</TITULO>
+                <SEQUENCIA>263</SEQUENCIA>
+                <AUTORES>BELUSSO, CASSIO L. M., SAWICKI, SANDRO, BASTO-FERNANDES, VITOR, Rafael Zancan Frantz, ROOS-FRANTZ, FABRICIA.</AUTORES>
+                <EVENTO>2017 12th Iberian Conference on Information Systems and Technologies (CISTI)</EVENTO>
+                <LOCAL>Lisbon</LOCAL>
+                <ANAIS>2017 12th Iberian Conference on Information Systems and Technologies (CISTI)</ANAIS>
+                <PAGINAS>1-6</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Task Scheduling Optimization on Enterprise Application Integration Platforms Based on the Meta-heuristic Particle Swarm Optimization</TITULO>
+                <SEQUENCIA>273</SEQUENCIA>
+                <AUTORES>SELLARO, DANIELA F., Rafael Zancan Frantz, HERNÁNDEZ, INMA, ROOS-FRANTZ, FABRICIA, SAWICKI, SANDRO.</AUTORES>
+                <EVENTO>the 31st Brazilian Symposium</EVENTO>
+                <LOCAL>Fortaleza</LOCAL>
+                <ANAIS>Proceedings of the 31st Brazilian Symposium on Software Engineering - SBES&amp;apos;17</ANAIS>
+                <PAGINAS>273-278</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Modelagem Matemática e Simulação no Contexto dos Motores de Execução das Plataformas de Integração: um Estudo Exploratório</TITULO>
+                <SEQUENCIA>276</SEQUENCIA>
+                <AUTORES>Igor Gamste Haugg, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+                <EVENTO>XXII Jornada de Pesquisa</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2017</ANAIS>
+                <PAGINAS>1-9</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Análise do Motor de Execução da Tecnologia Guaraná</TITULO>
+                <SEQUENCIA>277</SEQUENCIA>
+                <AUTORES>Ivan Eduardo Metz Kühne, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXV Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2017</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Integração de Aplicações Aplicada à Extração e Qualificação Automática de Publicações de Pesquisadores: Um Caso Baseado no Currículo Lattes</TITULO>
+                <SEQUENCIA>278</SEQUENCIA>
+                <AUTORES>Matheus Henrique Rehbein, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <EVENTO>XXV Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2017</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Analisando a Evolução das Métricas de Manutenibilidade de um Sistema de Software de Integração: Mulesoft</TITULO>
+                <SEQUENCIA>279</SEQUENCIA>
+                <AUTORES>Rodolfo Berlezi, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>XXV Seminário de Iniciação Científica</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Salão do Conhecimento UNIJUI 2017</ANAIS>
+                <PAGINAS>1-5</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Geração Automática de Modelos de Simulação para Soluções de Integração</TITULO>
+                <SEQUENCIA>282</SEQUENCIA>
+                <AUTORES>HAUGG, IGOR G., Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXVIII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Anais do CRICTE</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>MALS: Uma Ferramenta para Extração e Classificação Automática de Publicações do Currículo Lattes</TITULO>
+                <SEQUENCIA>283</SEQUENCIA>
+                <AUTORES>Matheus Henrique Rehbein, Rafael Zancan Frantz, ROOS-FRANTZ, FABRICIA.</AUTORES>
+                <EVENTO>&amp;#8203;XXVIII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Anais do CRICTE</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Análise da Evolução da Manutenibilidade da Plataforma de Integração Mulesoft</TITULO>
+                <SEQUENCIA>284</SEQUENCIA>
+                <AUTORES>Rodolfo Berlezi, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>&amp;#8203;XXVIII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia (CRICTE)</EVENTO>
+                <LOCAL>Ijuí</LOCAL>
+                <ANAIS>Anais do CRICTE</ANAIS>
+                <PAGINAS>1-4</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+            <TRABALHO-EM-EVENTOS>
+                <TITULO>Study on Combining Model-Driven Engineering and Scrum to Produce Web Information Systems</TITULO>
+                <SEQUENCIA>123</SEQUENCIA>
+                <AUTORES>Fabio Paulo Basso, Raquel Mainardi Pillat Basso, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <EVENTO>International Conference on Enterprise Information Systems (ICEIS)</EVENTO>
+                <LOCAL>Lisboa</LOCAL>
+                <ANAIS>Proceedings of the 16th International Conference on Enterprise Information Systems</ANAIS>
+                <PAGINAS>137-144</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>A1</QUALIS>
+            </TRABALHO-EM-EVENTOS>
+        </TRABALHOS-EM-EVENTOS>
+        <ARTIGOS-PUBLICADOS>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Analysis Patterns: Una Estrategia para la Reutilización</TITULO>
+                <SEQUENCIA>70</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz, José Joaquín Bocanegra García.</AUTORES>
+                <ISSN>16927389</ISSN>
+                <PERIODICO>Ingenierías &amp; Amazonia</PERIODICO>
+                <PAGINAS>46-49</PAGINAS>
+                <ANO>2007</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A DOMAIN-SPECIFIC LANGUAGE TO DESIGN ENTERPRISE APPLICATION INTEGRATION SOLUTIONS</TITULO>
+                <SEQUENCIA>87</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Antonia María Reina Quintero, Rafael Corchuelo.</AUTORES>
+                <ISSN>02188430</ISSN>
+                <PERIODICO>International Journal of Cooperative Information Systems (Singapore)</PERIODICO>
+                <PAGINAS>143-176</PAGINAS>
+                <ANO>2011</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A proposal to detect errors in Enterprise Application Integration solutions</TITULO>
+                <SEQUENCIA>99</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Carlos Molina Jiménez.</AUTORES>
+                <ISSN>01641212</ISSN>
+                <PERIODICO>The Journal of Systems and Software</PERIODICO>
+                <PAGINAS>480-497</PAGINAS>
+                <ANO>2012</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A DSL for enterprise application integration</TITULO>
+                <SEQUENCIA>100</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz.</AUTORES>
+                <ISSN>09528091</ISSN>
+                <PERIODICO>International Journal of Computer Applications in Technology</PERIODICO>
+                <PAGINAS>257-263</PAGINAS>
+                <ANO>2008</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Combining MDE and Scrum on the rapid prototyping of web information systems</TITULO>
+                <SEQUENCIA>197</SEQUENCIA>
+                <AUTORES>Fabio Paulo Basso, Raquel Mainardi Pillat Basso, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+                <ISSN>14761289</ISSN>
+                <PERIODICO>International Journal of Web Engineering and Technology</PERIODICO>
+                <PAGINAS>214-244</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A methodology to evaluate the maintainability of enterprise application integration frameworks</TITULO>
+                <SEQUENCIA>200</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <ISSN>14761289</ISSN>
+                <PERIODICO>International Journal of Web Engineering and Technology</PERIODICO>
+                <PAGINAS>334-354</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>On the design of a maintainable software development kit to implement integration solutions</TITULO>
+                <SEQUENCIA>201</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <ISSN>01641212</ISSN>
+                <PERIODICO>The Journal of Systems and Software</PERIODICO>
+                <PAGINAS>89-104</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>An Automatic Generation of Textual Pattern Rules for Digital Content Filters Proposal, Using Grammatical Evolution Genetic Programming</TITULO>
+                <SEQUENCIA>217</SEQUENCIA>
+                <AUTORES>BASTO-FERNANDES, VITOR, YEVSEYEVA, IRYNA, Rafael Zancan Frantz, GRILO, CARLOS, DÍAZ, NOEMÍ PÉREZ, EMMERICH, MICHAEL.</AUTORES>
+                <ISSN>22120173</ISSN>
+                <PERIODICO>Procedia Technology</PERIODICO>
+                <PAGINAS>806-812</PAGINAS>
+                <ANO>2014</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>An EAI Based Integration Solution for Science and Research Outcomes Information Management</TITULO>
+                <SEQUENCIA>218</SEQUENCIA>
+                <AUTORES>SEQUEIRA, FERNANDO ROSA, Rafael Zancan Frantz, YEVSEYEVA, IRYNA, EMMERICH, MICHAEL T.M., BASTO-FERNANDES, VITOR.</AUTORES>
+                <ISSN>18770509</ISSN>
+                <PERIODICO>Procedia Computer Science</PERIODICO>
+                <PAGINAS>894-901</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Cloud Configuration Modelling: A Literature Review from an Application Integration Deployment Perspective</TITULO>
+                <SEQUENCIA>219</SEQUENCIA>
+                <AUTORES>HERNÁNDEZ, INMA, SAWICKI, SANDRO, ROOS-FRANTZ, FABRICIA, Rafael Zancan Frantz.</AUTORES>
+                <ISSN>18770509</ISSN>
+                <PERIODICO>Procedia Computer Science</PERIODICO>
+                <PAGINAS>977-983</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A Survey on the Open Source Tools for Modelling and Implementing Enterprise Application Integration Solutions</TITULO>
+                <SEQUENCIA>230</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz.</AUTORES>
+                <ISSN>15356698</ISSN>
+                <PERIODICO>International Journal of Computer Research</PERIODICO>
+                <PAGINAS>287-306</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A Technology Proposal to Realise Enterprise Application Integration</TITULO>
+                <SEQUENCIA>231</SEQUENCIA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+                <ISSN>15356698</ISSN>
+                <PERIODICO>International Journal of Computer Research</PERIODICO>
+                <PAGINAS>307-328</PAGINAS>
+                <ANO>2015</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Simulation of oat grain (Avena sativa) using its panicle components and nitrogen fertilizer</TITULO>
+                <SEQUENCIA>239</SEQUENCIA>
+                <AUTORES>Rúbia Diana Mantai, José Antonio Gonzalez da Silva, Emilio Ghisleni Arenhardt, Osmar Bruneslau Scremin, Ângela Teresinha Woschinski de Mamann, Rafael Zancan Frantz, Antonio Carlos Valdiero, Dionatan K. Krysczun, Rafael Pretto.</AUTORES>
+                <ISSN>1991637X</ISSN>
+                <PERIODICO>African Journal of Agricultural Research</PERIODICO>
+                <PAGINAS>3975-3983</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Analysis of Asset Specification Languages for Representation of Descriptive Data from MDE Artifacts</TITULO>
+                <SEQUENCIA>242</SEQUENCIA>
+                <AUTORES>BASSO, FÁBIO P., OLIVEIRA, TOACY C., WERNER, CLÁUDIA M.L., Rafael Zancan Frantz.</AUTORES>
+                <ISSN>18770509</ISSN>
+                <PERIODICO>Procedia Computer Science</PERIODICO>
+                <PAGINAS>221-228</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Mathematical Model for Simulating an Application Integration Solution in the Academic Context of Unijuí University</TITULO>
+                <SEQUENCIA>243</SEQUENCIA>
+                <AUTORES>KRAISIG, ADRIANA R., WELTER, FRANCIÉLI C., HAUGG, IGOR G., CARGNIN, ROBERTO, ROOS-FRANTZ, FABRICIA, SAWICKI, SANDRO, Rafael Zancan Frantz.</AUTORES>
+                <ISSN>18770509</ISSN>
+                <PERIODICO>Procedia Computer Science</PERIODICO>
+                <PAGINAS>407-413</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>A Study of Petri Nets, Markov Chains and Queueing Theory as Mathematical Modelling Languages Aiming at the Simulation of Enterprise Application Integration Solutions: A First Step</TITULO>
+                <SEQUENCIA>250</SEQUENCIA>
+                <AUTORES>BELUSSO, CÁSSIO L.M., SAWICKI, SANDRO, ROOS-FRANTZ, FABRICIA, Rafael Zancan Frantz.</AUTORES>
+                <ISSN>18770509</ISSN>
+                <PERIODICO>Procedia Computer Science</PERIODICO>
+                <PAGINAS>229-236</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Contributive effect of growth regulator Trinexapac-Ethyl to oats yield in Brazil</TITULO>
+                <SEQUENCIA>255</SEQUENCIA>
+                <AUTORES>Anderson Marolli, Andressa Raquel Cyzeski de Lima, José Antonio Gonzalez da Silva, Marcos Vinicios Romitti, Rúbia Diana Mantai, Osmar Bruneslau Scremin, Rafael Zancan Frantz, Sandro Sawicki, Emilio Ghisleni Arenhardt, Maria Eduarda Gzergorczick.</AUTORES>
+                <ISSN>1991637X</ISSN>
+                <PERIODICO>African Journal of Agricultural Research</PERIODICO>
+                <PAGINAS>795-804</PAGINAS>
+                <ANO>2017</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+            <ARTIGO-PUBLICADO>
+                <TITULO>Automated Design of Multi-Layered Web Information Systems</TITULO>
+                <SEQUENCIA>233</SEQUENCIA>
+                <AUTORES>BASSO, FÁBIO PAULO, PILLAT, RAQUEL MAINARDI, OLIVEIRA, TOACY CAVALCANTE, ROOS-FRANTZ, FABRICIA, Rafael Zancan Frantz.</AUTORES>
+                <ISSN>01641212</ISSN>
+                <PERIODICO>The Journal of Systems and Software</PERIODICO>
+                <PAGINAS>612-637</PAGINAS>
+                <ANO>2016</ANO>
+                <QUALIS>B1</QUALIS>
+                <H-INDEX>12345</H-INDEX>
+            </ARTIGO-PUBLICADO>
+        </ARTIGOS-PUBLICADOS>
+        <LIVROS-PUBLICADOS>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>121</SEQUENCIA>
+                <TIPO>LIVRO_PUBLICADO</TIPO>
+                <TITULO-DO-LIVRO>Enterprise Application Integration: An Easy-to-Maintain Model-Driven Engineering Approach</TITULO-DO-LIVRO>
+                <ANO>2013</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>8469589784</ISBN>
+                <CIDADE-DA-EDITORA>Sevilla</CIDADE-DA-EDITORA>
+                <EDITORA>Universidad de Sevilla</EDITORA>
+                <AUTORES>Rafael Zancan Frantz.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>132</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Pesquisas Aplicadas em Modelagem Matemática: Coleção Modelagem Matemática Aplicada a Resolução de Problemas nas Engenharias</TITULO-DO-LIVRO>
+                <ANO>2014</ANO>
+                <IDIOMA>Português</IDIOMA>
+                <ISBN>9788541901369</ISBN>
+                <CIDADE-DA-EDITORA>Ijuí</CIDADE-DA-EDITORA>
+                <EDITORA>UNIJUI</EDITORA>
+                <AUTORES>Maira Vlieger, Sandro Sawicki, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>179</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Handbook of Research on Computational Simulation and Modeling in Engineering</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>1466688238</ISBN>
+                <CIDADE-DA-EDITORA>Hershey, Pennsylvania</CIDADE-DA-EDITORA>
+                <EDITORA>IGI Global</EDITORA>
+                <AUTORES>Sandro Sawicki, Rafael Zancan Frantz, Vitor Manuel Basto Fernandes, Fabricia Carneiro Roos Frantz, Iryna Yevseyeva, Rafael Corchuelo.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>194</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>&amp;#8203;Advances in Engineering Research</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781634823050</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Fabricia Carneiro Roos Frantz, David Benavides, Antonio Ruiz-Cortés, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>196</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>&amp;#8203;Horizons in Computer Science Research</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781634637404</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>223</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Horizons in Computer Science Research</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781634637404</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>224</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Pesquisas Aplicadas em Modelagem Matemática</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Português</IDIOMA>
+                <ISBN>9788541901840</ISBN>
+                <CIDADE-DA-EDITORA>Ijuí</CIDADE-DA-EDITORA>
+                <EDITORA>Editora UNIJUI</EDITORA>
+                <AUTORES>Mauri José Klein, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>274</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Horizons in Computer Science Research</TITULO-DO-LIVRO>
+                <ANO>2017</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781536127577</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Márcia Maria Horn, Sandro Sawicki, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Igor Gamste Haugg.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>275</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Horizons in Computer Science Research</TITULO-DO-LIVRO>
+                <ANO>2017</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781536127577</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Alexsandro Queiroz Lencina, Roberto Saulo Cargnin, Fabricia Carneiro Roos Frantz, Rafael Zancan Frantz, Sandro Sawicki.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>280</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Advances in Engineering Research</TITULO-DO-LIVRO>
+                <ANO>2017</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781536129915</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Adriana Rosélia Kraisig, Franciéli Cristina Welter, Igor Gamste Haugg, Rafael Zancan Frantz, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>281</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>Advances in Engineering Research</TITULO-DO-LIVRO>
+                <ANO>2017</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>978153612991X</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Fernando José Rosa Sequeira, Vitor Manuel Basto Fernandes, Rafael Zancan Frantz.</AUTORES>
+            </LIVRO-PUBLICADO>
+            <LIVRO-PUBLICADO>
+                <SEQUENCIA>195</SEQUENCIA>
+                <TIPO>Capítulo de livro publicado</TIPO>
+                <TITULO-DO-LIVRO>&amp;#8203;Advances in Engineering Research</TITULO-DO-LIVRO>
+                <ANO>2015</ANO>
+                <IDIOMA>Inglês</IDIOMA>
+                <ISBN>9781634823050</ISBN>
+                <CIDADE-DA-EDITORA>New York</CIDADE-DA-EDITORA>
+                <EDITORA>Nova Science Publishers, Inc.</EDITORA>
+                <AUTORES>Rafael Zancan Frantz, Rafael Corchuelo, Fabricia Carneiro Roos Frantz, Sandro Sawicki.</AUTORES>
+            </LIVRO-PUBLICADO>
+        </LIVROS-PUBLICADOS>
+    </PRODUCAO-BIBLIOGRAFICA>
+    <ID>3644027876437753</ID>
+    <NOME>Rafael Zancan Frantz</NOME>
+</CVLattes>

@@ -1,0 +1,32 @@
+nov 14, 2018 1:26:20 PM guarana.toolkit.task.communicators.dummy.InDummyCommunicator <init>
+INFORMAÇÕES: In-Communicator "Communicator@PortCurriculum" created successfully!
+nov 14, 2018 1:26:20 PM guarana.toolkit.task.communicators.dummy.OutDummyCommunicator <init>
+INFORMAÇÕES: Out-DummyCommunicator "Communicator@PortCurriculum" created!
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Worker doWork
+INFORMAÇÕES: -> Worker "WorkerThread-1" has started!
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Work Queue monitoring has been ACTIVATED!
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler$1 doWork
+ADVERTÊNCIA: .\cafe-full-stats\work-queue-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Workers monitoring has been ACTIVATED!
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler$2 doWork
+ADVERTÊNCIA: .\cafe-full-stats\workers-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler startMonitors
+INFORMAÇÕES: Memory monitoring has been ACTIVATED!
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Scheduler$3 doWork
+ADVERTÊNCIA: .\cafe-full-stats\memory-stats - [1] [10] [1000].txt (O sistema não pode encontrar o caminho especificado)
+nov 14, 2018 1:26:20 PM guarana.toolkit.engine.Worker doWork
+GRAVE: Exception in Worker: WorkerThread-1
+guarana.framework.task.TaskExecutionException: Exception in Splitter: Splitter t1
+ -> Caused by: 
+	at guarana.toolkit.task.transformers.Splitter.execute(Splitter.java:97)
+	at guarana.toolkit.engine.WorkUnit.execute(WorkUnit.java:87)
+	at guarana.toolkit.engine.Worker.doWork(Worker.java:63)
+	at tdg.concurrency.activity.ActiveObject.run(ActiveObject.java:92)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+	at tdg.guarana.examples.curriculum.solution.IntProcess$7.doWork(IntProcess.java:304)
+	at guarana.toolkit.task.transformers.Splitter.execute(Splitter.java:86)
+	... 4 more
+

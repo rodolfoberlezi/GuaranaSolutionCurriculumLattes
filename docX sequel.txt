@@ -1,0 +1,96 @@
+docX1
+<lattes completo>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+docX2
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<CVLattes>
+<ID> NUMERO IDENTIFICADOR </ID>
+<NOME> NOME-COMPLETO </NOME>
+<PRODUCAO>
+	<TRABALHOS-EM-EVENTOS>		
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+				</TRABALHOS-EM-EVENTOS>
+	<CAPITULOS-DE-LIVROS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>		
+				</CAPITULOS-DE-LIVROS>
+	<JOURNAIS-E-REVISTAS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+		<H-INDEX></H-INDEX>
+				</JOURNAS-E-REVISTAS>
+</PRODUCAO>
+</CVLattes>
+
+docX3
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<PRODUCAO>
+	<TRABALHOS-EM-EVENTOS>		
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+				</TRABALHOS-EM-EVENTOS>
+</PRODUCAO>
+
+docX4
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+	<SEQUENCIA> SEQUENCIA </SEQUENCIA>
+	<QUALIS></QUALIS>
+
+docX5
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<PRODUCAO>
+<CAPITULOS-DE-LIVROS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>		
+				</CAPITULOS-DE-LIVROS>
+</PRODUCAO>
+
+docX6
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<PRODUCAO>
+	<JOURNAIS-E-REVISTAS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+		<H-INDEX></H-INDEX>
+				</JOURNAS-E-REVISTAS>
+</PRODUCAO>
+
+docX7
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+	<SEQUENCIA></SEQUENCIA>
+	<QUALIS></QUALIS>
+
+docX8
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+	<SEQUENCIA></SEQUENCIA>
+	<H-INDEX></H-INDEX>
+
+docX9
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<PRODUCAO>
+	<TRABALHOS-EM-EVENTOS>		
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+				</TRABALHOS-EM-EVENTOS>
+</PRODUCAO>
+<PRODUCAO>
+<CAPITULOS-DE-LIVROS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>		
+				</CAPITULOS-DE-LIVROS>
+</PRODUCAO>
+<PRODUCAO>
+	<JOURNAIS-E-REVISTAS>
+		<SEQUENCIA></SEQUENCIA>
+		<TITULO></TITULO>
+		<QUALIS></QUALIS>
+		<H-INDEX></H-INDEX>
+				</JOURNAS-E-REVISTAS>
+</PRODUCAO>
